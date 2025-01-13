@@ -1,4 +1,4 @@
-# Wrocławskie Kawiarnie
+# WroCafe
 
 Aplikacja pozwalająca użytkownikom na przeglądanie, ocenianie i komentowanie kawiarni we Wrocławiu. System obsługuje role użytkownika i administratora, umożliwiając różne poziomy dostępu.
 
